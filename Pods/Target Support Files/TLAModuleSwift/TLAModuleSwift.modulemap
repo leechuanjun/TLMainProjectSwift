@@ -1,0 +1,6 @@
+framework module TLAModuleSwift {
+  umbrella header "TLAModuleSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
